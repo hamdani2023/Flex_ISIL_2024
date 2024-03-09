@@ -18,6 +18,9 @@ Remember to test your pages across various devices and browsers to ensure a seam
 
 We encourage you to unleash your creativity and showcase your skills through this project. Feel free to explore and experiment with different ideas to make your web pages stand out.
 
+The attached pages serve as a guide for your design and implementation.
+
+
 Best of luck, and happy coding!
 
 Sincerely,
